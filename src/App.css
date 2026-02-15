@@ -2,5 +2,11 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: rgb(195, 245, 195);
+  /* background-color: rgb(195, 245, 195); */
+}
+.App {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 100vh;
 }
